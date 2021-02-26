@@ -647,7 +647,7 @@ PlayerSettings:
   cloudServicesEnabled:
     Analytics: 1
     Build: 0
-    Collab: 1
+    Collab: 0
     Game Performance: 0
     Purchasing: 0
     UDP: 0
@@ -666,11 +666,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: ce368419-4cc8-46c3-a147-53070991bafa
+  cloudProjectId: 2261fbe5-e1c4-4570-9698-b5ea158ef09b
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: COMP397-W2021-Lesson4a
-  organizationId: centennial-college
+  organizationId: sergiobtos_unity
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   virtualTexturingSupportEnabled: 0
